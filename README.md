@@ -1,0 +1,2 @@
+# AI-Powered-Data-Validation-and-Verification-System
+The AI-Powered Data Validation and Verification System is a pioneering solution designed to efficiently process and validate large datasets using state-of-the-art AI models. This project leverages the capabilities of GPT-35-Turbo and Claude-3-Haiku models from LLM Foundry to intelligently analyze and verify the integrity of structured data inputs.
