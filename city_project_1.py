@@ -5,7 +5,7 @@ import time
 from tqdm import tqdm
 
 # Define the LLM Foundry token for your API requests
-LLMFOUNDRY_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im11dGh1a3VtYXIucGFuY2hhYmVrYXNhbkBzdHJhaXZlLmNvbSJ9.uiwWDBAUFxkHaLY4duukUT0h94izwJH6rktK5mksef0"
+LLMFOUNDRY_TOKEN = "Your Key"
 
 # Function to interact with the first model
 def chat_with_llm_model1(user_input):
